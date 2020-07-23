@@ -1,6 +1,6 @@
 
 
-PROJECT: Data Warehouse
+## PROJECT: Data Warehouse
 
 - This project handles data of a music streaming startup, Sparkify. The Sparkify app stores JSON logs for user activity and JSON metadata for the songs in the application. 
 These JSON data filed are stored reside in S3 bucket.
