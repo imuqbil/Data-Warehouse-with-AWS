@@ -17,7 +17,7 @@ Amazon Web Services Redshift is used in ETL pipeline. the pipeline goes as follo
 Extract the original data stored in S# and load it into staging tables in Redshift. And then it load 
 the data into a star schema analytical tables in Redshift as well. 
   
- Files:
+ #### Files:
  create_tables.py (to create the DB to AWS Redshift)
  etl.py (to process all the input data to the DB)
  sql_queries.p (contains all needed queries to build the ETL)
